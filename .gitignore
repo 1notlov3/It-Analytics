@@ -1,0 +1,16 @@
+# Служебные файлы Python
+__pycache__/
+*.pyc
+
+# Черновики Jupyter
+.ipynb_checkpoints/
+
+# Локальная база SQLite (создаётся скриптом src/run_sql.py)
+build/
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Системные файлы
+.DS_Store
