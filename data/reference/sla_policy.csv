@@ -1,0 +1,5 @@
+priority,priority_name,response_target_min,resolution_target_min
+P1,Критический,15,240
+P2,Высокий,30,300
+P3,Средний,60,480
+P4,Низкий,240,1080
