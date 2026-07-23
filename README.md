@@ -80,7 +80,7 @@ P3/P4 закрываются в срок почти всегда, а вот **P1
 
 ## Интерактивная панель
 
-🔗 **Живая версия: [1notlov3.github.io/It-Analytics/dashboard](https://1notlov3.github.io/It-Analytics/dashboard/)**
+🔗 **Живая версия: [1notlov3.github.io/Airport-It-Analytics/dashboard](https://1notlov3.github.io/Airport-It-Analytics/dashboard/)**
 
 Файл [`dashboard/index.html`](dashboard/index.html) — самодостаточная интерактивная панель (Chart.js): KPI, динамика, тепловая карта срывов, таблица систем и рекомендации. Можно просто открыть в браузере — установка не нужна.
 
