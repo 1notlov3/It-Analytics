@@ -1,0 +1,51 @@
+{
+  "period": {
+    "start": "2024-01-01",
+    "end": "2025-12-31"
+  },
+  "total_tickets": 33309,
+  "closed_tickets": 32756,
+  "open_backlog": 123,
+  "cancelled": 430,
+  "resolution_sla_breach_pct": 4.2,
+  "response_sla_breach_pct": 30.9,
+  "breach_by_priority": {
+    "P1": 19.0,
+    "P2": 13.1,
+    "P3": 3.2,
+    "P4": 0.2
+  },
+  "median_resolution_min": 168,
+  "median_resolution_hours": 2.8,
+  "p1_share_pct": 2.4,
+  "reopen_rate_pct": 5.7,
+  "total_delayed_flights": 1310,
+  "delayed_flights_per_year": 655,
+  "total_downtime_hours": 1161,
+  "csat_response_rate_pct": 44.2,
+  "csat_mean": 4.4,
+  "csat_mean_breached": 2.51,
+  "csat_mean_ok": 4.49,
+  "flights_tickets_corr": 0.5,
+  "top_systems": {
+    "Рабочие станции (АРМ)": 5331,
+    "Стойки и киоски регистрации": 3892,
+    "Пассажирский Wi-Fi и сеть": 3289,
+    "Табло вылета и прилёта (FIDS)": 2967,
+    "Посадочные гейты": 2652
+  },
+  "category_share_pct": {
+    "Оборудование": 33.3,
+    "Сеть": 26.4,
+    "ПО": 24.1,
+    "Периферия": 10.3,
+    "Доступы": 6.0
+  },
+  "peak_hours": [
+    7,
+    8,
+    17,
+    18
+  ],
+  "avg_tickets_per_day": 45.6
+}
