@@ -12,5 +12,8 @@ build/
 .venv/
 venv/
 
+# Локальные PNG-версии графиков (в репозитории — векторные SVG)
+reports/figures/*.png
+
 # Системные файлы
 .DS_Store

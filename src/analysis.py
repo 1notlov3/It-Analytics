@@ -91,10 +91,13 @@ def load_data():
 
 
 def savefig(fig, name):
+    """Сохраняет график в двух форматах: PNG (локальный просмотр)
+    и SVG (векторный, для README на GitHub)."""
     path = FIG / name
     fig.savefig(path, facecolor="white")
+    fig.savefig(path.with_suffix(".svg"), facecolor="white")
     plt.close(fig)
-    print(f"  сохранён график: reports/figures/{name}")
+    print(f"  сохранён график: reports/figures/{name} (+ .svg)")
     return path
 
 
